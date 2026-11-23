@@ -1,0 +1,11 @@
+{
+  "main": "fun.democraft.smart.docker.DockerBuilder",
+  "name": "Smart-Docker",
+  "description": "Docker provider for Smart.",
+  "dependencies": [
+    "smart"
+  ],
+  "environments": [
+    "proxy"
+  ]
+}
